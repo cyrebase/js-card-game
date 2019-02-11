@@ -1,0 +1,9 @@
+{
+  "name": "js-card-game",
+  "version": "1.0.0",
+  "description": "JavaScript card game",
+  "main": "app.js",
+  "repository": "https://github.com/neuralline/js-card-game",
+  "author": "Darik Hart",
+  "license": "GNU GENERAL PUBLIC LICENSE"
+}
